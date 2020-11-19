@@ -36,6 +36,9 @@ namespace Sistema_Incidencias
             lblHora.Text = DateTime.Now.ToString("HH:mm:ssss");
         }
 
+        private void btnMembresia_Click(object sender, EventArgs e)
+        {
 
+        }
     }
 }

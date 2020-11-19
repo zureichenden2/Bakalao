@@ -46,9 +46,10 @@ namespace Sistema_Incidencias
             lblHora.Text = DateTime.Now.ToString("HH:mm:ssss");
         }
 
-        private void btnCerrarSesion_Click(object sender, EventArgs e)
+        private void btnIncidencia_Click(object sender, EventArgs e)
         {
-
+            FormIncidenciasJefeTaller incidencias = new FormIncidenciasJefeTaller();
+            incidencias.Show();
         }
 
         private void btnTecnicos_Click(object sender, EventArgs e)
@@ -57,12 +58,9 @@ namespace Sistema_Incidencias
             tecnicos.Show();
         }
 
-        private void btnIncidencia_Click(object sender, EventArgs e)
+        private void btnReporte_Click(object sender, EventArgs e)
         {
-            FormIncidenciasJefeTaller incidencias = new FormIncidenciasJefeTaller();
-            incidencias.Show();
+
         }
-
-
     }
 }

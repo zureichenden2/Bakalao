@@ -25,11 +25,29 @@ namespace Sistema_Incidencias
             llenarTabla();
         }
 
-
         public void llenarTabla()
         {
-            var select = " select p.nombre + p.apellidoPaterno as 'Nombre completo', cp.cargo from persona p " +
-                "join cargo_persona cp on p.id= cp.fk_persona where cp.cargo = 'Técnico'";
+            var select = "";
+            if(UserLoginCache.Cargo == "Jefe de Taller de Hardware")
+            {
+                select = " select p.nombre + p.apellidoPaterno as 'Nombre completo', cp.cargo from persona p " +
+                "join cargo_persona cp on p.id = cp.fk_persona " +
+                "where cp.cargo like 'Técnico en Hardware%'";
+            }
+            else if (UserLoginCache.Cargo == "Jefe de Taller de Software")
+            {
+                select = " select p.nombre + p.apellidoPaterno as 'Nombre completo', cp.cargo from persona p " +
+                "join cargo_persona cp on p.id = cp.fk_persona " +
+                "where cp.cargo like 'Técnico en Software%'";
+            }
+
+            else if(UserLoginCache.Cargo == "Jefe de Taller de Redes")
+            {
+                select = " select p.nombre + p.apellidoPaterno as 'Nombre completo', cp.cargo from persona p " +
+                "join cargo_persona cp on p.id = cp.fk_persona " +
+                "where cp.cargo like 'Técnico en Redes%'";
+            }
+            
 
             var comando = new SqlConnection("Server=.\\SQLEXPRESS; Database= Sistema_Incidencias; Integrated Security=True"); // Your Connection String here
             var dataAdapter = new SqlDataAdapter(select, comando);

@@ -161,11 +161,19 @@ namespace Sistema_Incidencias
         {
             MostrarFormLogo();
             LoadUserData();
+            LlenarComboCargos();
 
             DataTable dt = ObtenerEmpleados();
             comboBox3.DataSource = dt;
             comboBox3.ValueMember = "id";
-            comboBox3.DisplayMember = "apellidoPaterno";
+            comboBox3.DisplayMember = "NAME";
+
+            DataTable dt2 = MostrarDepartamentos();
+            comboBox1.DataSource = dt2;
+            comboBox1.DisplayMember = "nombre";
+            comboBox1.ValueMember = "id";
+
+            textBox1.Text = dt.Columns[0].ToString();
 
         }
         //METODO PARA MOSTRAR FORMULARIO DE LOGO Al CERRAR OTROS FORM ----------------------------------------------------------
@@ -273,6 +281,19 @@ namespace Sistema_Incidencias
 
         }
 
+        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (comboBox2.SelectedIndex == 0)
+            {
+                comboBox1.Enabled = true;
+            }
+
+            else
+            {
+                comboBox1.Enabled = false;
+            }
+        }
+
         private void LoadUserData()
         {
             label3.Text = UserLoginCache.Nombres;
@@ -289,7 +310,7 @@ namespace Sistema_Incidencias
                 {
                     using (var cmd = cn.CreateCommand())
                     {
-                        cmd.CommandText = "SELECT id, apellidoPaterno From Persona";
+                        cmd.CommandText = "SELECT id,(nombre + ' ' + apellidoPaterno + ' ' + apellidoMaterno) as NAME FROM persona WHERE NOT EXISTS (SELECT NULL FROM cargo_persona WHERE cargo_persona.fk_persona = persona.id)";
                         da.SelectCommand = cmd;
                         var dt = new DataTable();
                         da.Fill(dt);
@@ -299,6 +320,93 @@ namespace Sistema_Incidencias
             }
         }
 
+        private void btn_guardar_Click(object sender, EventArgs e)
+        {
+            Asignar();
+        }
+
+        public DataTable MostrarDepartamentos()
+        {
+            using (var cn = new SqlConnection(connString))
+            {
+                using (var da = new SqlDataAdapter())
+                {
+                    using (var cmd = cn.CreateCommand())
+                    {
+                        cmd.CommandText = "SELECT * From departamento WHERE NOT EXISTS (SELECT NULL FROM cargo_persona WHERE cargo_persona.fk_departamento = departamento.id)";
+                        da.SelectCommand = cmd;
+                        var dt = new DataTable();
+                        da.Fill(dt);
+                        return dt;
+                    }
+                }
+            }
+        }
+
+
+        public void Asignar()
+        {
+            int fk_persona = 0;
+            string cargo = "";
+            int fk_departamento = 0;
+
+            fk_persona = Convert.ToInt32(comboBox3.SelectedValue.ToString());
+            cargo = comboBox2.SelectedItem.ToString();
+
+            if (comboBox1.Enabled == false)
+            {
+                fk_departamento = 0;
+            }
+
+            else
+            {
+                fk_departamento = Convert.ToInt32(comboBox1.SelectedValue.ToString());
+            }
+
+            using (SqlConnection connection = new SqlConnection(connString))
+            {
+                String query = "INSERT INTO cargo_persona(fk_persona,cargo,fk_departamento) " +
+                    "VALUES (@fk_persona,@cargo,@fk_departamento)";
+
+                using (SqlCommand command = new SqlCommand(query, connection))
+                {
+                    command.Parameters.AddWithValue("@fk_persona", fk_persona);
+                    command.Parameters.AddWithValue("@cargo", cargo);
+                    if (fk_departamento == 0)
+                    {
+                        command.Parameters.AddWithValue("@fk_departamento", DBNull.Value);
+                    }
+                    else
+                    {
+                        command.Parameters.AddWithValue("@fk_departamento", fk_departamento);
+
+                    }
+
+
+
+                    connection.Open();
+                    int result = command.ExecuteNonQuery();
+
+                    // Check Error
+                    if (result < 0)
+                        Console.WriteLine("Error inserting data into Database!");
+                    else
+                        MessageBox.Show(("Cargo asignado"), "Cargo asignado correctamente", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                }
+            }
+        }
+
+        public void LlenarComboCargos()
+        {
+            comboBox2.Items.Add("Jefe de departamento");
+            comboBox2.Items.Add("Jefe de Taller de Hardware");
+            comboBox2.Items.Add("Jefe de Taller de Software");
+            comboBox2.Items.Add("Jefe de Taller de Redes");
+            comboBox2.Items.Add("Técnico en Hardware");
+            comboBox2.Items.Add("Técnico en Software");
+            comboBox2.Items.Add("Técnico en Redes");
+        }
 
 
 

@@ -42,5 +42,12 @@ namespace Sistema_Incidencias
             alta.ShowDialog();
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FormAñadirElementosDepartamentos añadir = new FormAñadirElementosDepartamentos();
+            añadir.Show();
+        }
+
+
     }
 }

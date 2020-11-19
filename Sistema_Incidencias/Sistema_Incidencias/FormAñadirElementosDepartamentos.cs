@@ -21,5 +21,10 @@ namespace Sistema_Incidencias
         {
 
         }
+
+        private void btnAgregarDepartamento_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

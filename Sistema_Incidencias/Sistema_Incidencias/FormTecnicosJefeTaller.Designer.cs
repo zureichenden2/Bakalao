@@ -58,7 +58,7 @@
             this.PanelBarraTitulo.Location = new System.Drawing.Point(0, 0);
             this.PanelBarraTitulo.Name = "PanelBarraTitulo";
             this.PanelBarraTitulo.Size = new System.Drawing.Size(800, 43);
-            this.PanelBarraTitulo.TabIndex = 2;
+            this.PanelBarraTitulo.TabIndex = 3;
             // 
             // label14
             // 
@@ -130,7 +130,7 @@
             this.panel2.Location = new System.Drawing.Point(0, 43);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(800, 407);
-            this.panel2.TabIndex = 7;
+            this.panel2.TabIndex = 8;
             // 
             // lblId
             // 

@@ -121,7 +121,7 @@ CREATE TABLE servicios(
 	
 CREATE TABLE incidencia(
 	id int NOT NULL identity(1,1),
-	titulo VARCHAR(40) not null,
+	titulo VARCHAR(80) not null,
 	descripcion VARCHAR(700) NOT NULL,
 	tipo int not NULL,
 	persona int NULL,
@@ -291,6 +291,7 @@ Inner Join departamento
 ON cargo_persona.fk_departamento = departamento.id
 Inner Join inserted
 On cargo_persona.fk_departamento = inserted.fk_departamento
+where cargo_persona.fk_departamento IS NOT NULL
 )
 
 Set @ubicacion = 'Ubicación X'
@@ -385,7 +386,11 @@ VALUES
 	('María Aracely', 'Martínez', 'Amaya', 'UserMaríaMartínez', 'contra', '6673236540', 'Av. Juan de Dios Bátiz 310 Pte. Col. Guadalupe, C.P. 80220.'),
 	('Jesus', 'Barajas', 'Villegas', 'barajin', 'enojon', '6673236540', 'Tartarus'),
 	('Melissa', 'Lion', 'Leona', 'meli', 'lion', '6612938271', 'La Fama'),
-	('Marco', 'Rodríguez', 'Astorga', 'admin', 'pass', '6677125132', 'Juan de Dios Bátiz');
+	('Marco', 'Rodríguez', 'Astorga', 'admin', 'pass', '6677125132', 'Juan de Dios Bátiz'),
+	('Julissa', 'Villanueva', 'Romero', 'juli', 'pass', '6677125132', 'Juan de Dios Bátiz'),
+	('Andrea', 'Valencia', 'Pfeifer', 'andrea', 'pass', '6677125132', 'Juan de Dios Bátiz'),
+	('Martín', 'Nevarez', 'Nevarez', 'martin', 'nevarez', '6677125132', 'Juan de Dios Bátiz'),
+	('Luis', 'Bolaños', 'Lizárraga', 'bolaños', 'pass', '6677125132', 'Juan de Dios Bátiz');
 	GO
 
 
@@ -419,9 +424,14 @@ VALUES
 (19, 'Jefe del depto. de Ciencias Económico-Administrativas', 6),
 (20, 'Jefe del depto. de Ciencias Básicas', 2),
 (21, 'Jefa del depto. de División de Estudios de Posgrado e Investigación', 5),
-(22, 'Jefe de Taller de Hardware', 1),
-(23, 'Técnico', 1),
-(24, 'Administrador', 1);
+(22, 'Jefe de Taller de Hardware', null),
+(23, 'Técnico en Hardware', null),
+(24, 'Administrador', null),
+(25, 'Técnico en Software', null),
+(26, 'Técnico en Redes', null),
+(27, 'Jefe de Taller de Software', null),
+(28, 'Jefe de Taller de Redes', null);
+
 GO
 
 INSERT INTO tipos_elementoTI(
@@ -523,7 +533,9 @@ INSERT INTO incidencia(
 
 VALUES
  /***** Departamentos Académicos *****/
-	('Arreglar computadora de secretaria', 'Computadora no enciende', 1, 11, 'Media', GETDATE(), 1, null);
+	('Arreglar computadora de secretaria', 'Computadora no enciende', 1, 11, 'Media', GETDATE(), 1, null),
+	('Programar software para control de kardex', 'Necesito un software de control', 2, 19, 'Alta', GETDATE(), 1, null),
+	('Red WiFi lenta', 'Red lenta', 3, 20, 'Alta', GETDATE(), 1, null);
 GO
 
 Insert Into incidencia_detalle(
@@ -539,5 +551,7 @@ Insert Into incidencia_detalle(
 	tiempoSolucionReal
 )
 
-Values(1, 1, 1, 21, null, null, null, null, null, null);
+Values(1, 1, 1, 21, null, null, null, null, null, null),
+	  (2, null, null, 6, null, null, null, null, null, null),
+      (3, null, null, 2, null, null, null, null, null, null);
 GO
