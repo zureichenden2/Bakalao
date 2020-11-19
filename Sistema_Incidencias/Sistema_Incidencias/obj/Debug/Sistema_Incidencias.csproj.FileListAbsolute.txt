@@ -1,0 +1,216 @@
+C:\Users\Oscar\Desktop\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.exe.config
+C:\Users\Oscar\Desktop\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.exe
+C:\Users\Oscar\Desktop\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.pdb
+C:\Users\Oscar\Desktop\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\CircularProgressBar.dll
+C:\Users\Oscar\Desktop\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\WinFormAnimation.dll
+C:\Users\Oscar\Desktop\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\CircularProgressBar.xml
+C:\Users\Oscar\Desktop\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.Form1.resources
+C:\Users\Oscar\Desktop\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormMenuPrincipal.resources
+C:\Users\Oscar\Desktop\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.Properties.Resources.resources
+C:\Users\Oscar\Desktop\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.GenerateResource.cache
+C:\Users\Oscar\Desktop\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.CopyComplete
+C:\Users\Oscar\Desktop\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.exe
+C:\Users\Oscar\Desktop\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.pdb
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\Sistema_Incidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.exe.config
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\Sistema_Incidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.exe
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\Sistema_Incidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.pdb
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\Sistema_Incidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\CircularProgressBar.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\Sistema_Incidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\WinFormAnimation.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\Sistema_Incidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\CircularProgressBar.xml
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\Sistema_Incidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csprojAssemblyReference.cache
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\Sistema_Incidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.Form1.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\Sistema_Incidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormMenuPrincipal.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\Sistema_Incidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.Properties.Resources.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\Sistema_Incidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.GenerateResource.cache
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\Sistema_Incidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.CoreCompileInputs.cache
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\Sistema_Incidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.CopyComplete
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\Sistema_Incidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.exe
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\Sistema_Incidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.pdb
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.exe.config
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.exe
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.pdb
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\CircularProgressBar.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\DataAccess.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Dominio.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\WinFormAnimation.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\DataAccess.pdb
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Dominio.pdb
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\CircularProgressBar.xml
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csprojAssemblyReference.cache
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.Form1.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormLogin.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormMenuPrincipal.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.Properties.Resources.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.GenerateResource.cache
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.CopyComplete
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.exe
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.pdb
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Common.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Common.pdb
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormListadoUsuarios.resources
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.exe.config
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.exe
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.pdb
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\CircularProgressBar.dll
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Common.dll
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\DataAccess.dll
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Dominio.dll
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\WinFormAnimation.dll
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Common.pdb
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\DataAccess.pdb
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Dominio.pdb
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\CircularProgressBar.xml
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csprojAssemblyReference.cache
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.Form1.resources
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormListadoUsuarios.resources
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormLogin.resources
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormMenuPrincipal.resources
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.Properties.Resources.resources
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.GenerateResource.cache
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.CopyComplete
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.exe
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.pdb
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.AltaElementoTI.resources
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.AltaPersonas.resources
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.AsignarCargo.resources
+C:\Users\Oscar\Desktop\Errores 2\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.Personal.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.AltaElementoTI.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.AltaPersonas.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.AsignarCargo.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.Personal.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormVerIncidencias.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormIncidenciaDetalle.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormDepartamentos.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormVerElementosTI.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormAltaDepartamento.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.exe.config
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.exe
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.pdb
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\CircularProgressBar.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Common.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\DataAccess.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Dominio.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\MySql.Data.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\WinFormAnimation.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Google.Protobuf.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Zstandard.Net.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Renci.SshNet.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\System.Buffers.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\System.Memory.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Common.pdb
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\DataAccess.pdb
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Dominio.pdb
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\CircularProgressBar.xml
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\MySql.Data.xml
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csprojAssemblyReference.cache
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.exe.config
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.AltaElementoTI.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.AltaPersonas.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.AsignarCargo.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.Form1.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormAltaDepartamento.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormDepartamentos.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormIncidenciaDetalle.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormListadoUsuarios.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormLogin.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormMenuPrincipal.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormVerElementosTI.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormVerIncidencias.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.Personal.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.Properties.Resources.resources
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.GenerateResource.cache
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.CoreCompileInputs.cache
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.CopyComplete
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.exe
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.pdb
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.exe.config
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.exe
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Sistema_Incidencias.pdb
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\CircularProgressBar.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Common.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\DataAccess.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Dominio.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\WinFormAnimation.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Google.Protobuf.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Zstandard.Net.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Renci.SshNet.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\System.Buffers.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\System.Memory.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Common.pdb
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\DataAccess.pdb
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Dominio.pdb
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\CircularProgressBar.xml
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\MySql.Data.xml
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csprojAssemblyReference.cache
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.exe.config
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.AltaElementoTI.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.AltaPersonas.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.AsignarCargo.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.Form1.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormAltaDepartamento.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormDepartamentos.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormIncidenciaDetalle.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormListadoUsuarios.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormLogin.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormMenuJefeDepto.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormMenuJefeTaller.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormMenuPrincipal.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormMenuTecnico.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormVerElementosTI.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormVerIncidencias.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.Personal.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.Properties.Resources.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.GenerateResource.cache
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.CoreCompileInputs.cache
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.csproj.CopyComplete
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.exe
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.pdb
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.formVerElementosDepartamento.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormTimbrarIncidencias.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormEvaluarIncidencias.resources
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormAñadirElementosDepartamentos.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Google.Protobuf.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Zstandard.Net.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\Renci.SshNet.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\System.Buffers.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\System.Memory.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\bin\Debug\MySql.Data.xml
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.exe.config
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormAñadirElementosDepartamentos.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormEvaluarIncidencias.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormMenuJefeDepto.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormMenuJefeTaller.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormMenuTecnico.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormTimbrarIncidencias.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.formVerElementosDepartamento.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormIncidenciasJefeTaller.resources
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Sistema_Incidencias\obj\Debug\Sistema_Incidencias.FormTecnicosJefeTaller.resources

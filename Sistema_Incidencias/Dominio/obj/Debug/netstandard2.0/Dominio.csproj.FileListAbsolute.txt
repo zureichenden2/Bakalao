@@ -1,0 +1,42 @@
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CopyComplete
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CopyComplete
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CopyComplete
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Dominio\obj\Debug\netstandard2.0\Dominio.pdb

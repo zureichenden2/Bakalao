@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6CEBCB83-494F-4C18-A380-395D3568119D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Sistema_Incidencias</RootNamespace>
+    <AssemblyName>Sistema_Incidencias</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CircularProgressBar, Version=2.8.0.16, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.8.0.16\lib\net40\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.21.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.1.2, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.8.2\lib\net461\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.6.0.4, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.6.0.4\lib\net40\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AltaElementoTI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AltaElementoTI.designer.cs">
+      <DependentUpon>AltaElementoTI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AltaPersonas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AltaPersonas.designer.cs">
+      <DependentUpon>AltaPersonas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AsignarCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsignarCargo.designer.cs">
+      <DependentUpon>AsignarCargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAltaDepartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAltaDepartamento.Designer.cs">
+      <DependentUpon>FormAltaDepartamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAñadirElementosDepartamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAñadirElementosDepartamentos.Designer.cs">
+      <DependentUpon>FormAñadirElementosDepartamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDepartamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDepartamentos.Designer.cs">
+      <DependentUpon>FormDepartamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEvaluarIncidencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEvaluarIncidencias.Designer.cs">
+      <DependentUpon>FormEvaluarIncidencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormIncidenciaDetalle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIncidenciaDetalle.Designer.cs">
+      <DependentUpon>FormIncidenciaDetalle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormIncidenciasJefeTaller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIncidenciasJefeTaller.Designer.cs">
+      <DependentUpon>FormIncidenciasJefeTaller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormListadoUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormListadoUsuarios.Designer.cs">
+      <DependentUpon>FormListadoUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenuJefeDepto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenuJefeDepto.Designer.cs">
+      <DependentUpon>FormMenuJefeDepto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenuJefeTaller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenuJefeTaller.Designer.cs">
+      <DependentUpon>FormMenuJefeTaller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenuPrincipal.Designer.cs">
+      <DependentUpon>FormMenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenuTecnico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenuTecnico.Designer.cs">
+      <DependentUpon>FormMenuTecnico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTecnicosJefeTaller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTecnicosJefeTaller.Designer.cs">
+      <DependentUpon>FormTecnicosJefeTaller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTimbrarIncidencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTimbrarIncidencias.Designer.cs">
+      <DependentUpon>FormTimbrarIncidencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formVerElementosDepartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formVerElementosDepartamento.Designer.cs">
+      <DependentUpon>formVerElementosDepartamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVerElementosTI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVerElementosTI.Designer.cs">
+      <DependentUpon>FormVerElementosTI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVerIncidencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVerIncidencias.Designer.cs">
+      <DependentUpon>FormVerIncidencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal.designer.cs">
+      <DependentUpon>Personal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AltaElementoTI.resx">
+      <DependentUpon>AltaElementoTI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AltaPersonas.resx">
+      <DependentUpon>AltaPersonas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AsignarCargo.resx">
+      <DependentUpon>AsignarCargo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAltaDepartamento.resx">
+      <DependentUpon>FormAltaDepartamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAñadirElementosDepartamentos.resx">
+      <DependentUpon>FormAñadirElementosDepartamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDepartamentos.resx">
+      <DependentUpon>FormDepartamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEvaluarIncidencias.resx">
+      <DependentUpon>FormEvaluarIncidencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormIncidenciaDetalle.resx">
+      <DependentUpon>FormIncidenciaDetalle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormIncidenciasJefeTaller.resx">
+      <DependentUpon>FormIncidenciasJefeTaller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormListadoUsuarios.resx">
+      <DependentUpon>FormListadoUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenuJefeDepto.resx">
+      <DependentUpon>FormMenuJefeDepto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenuJefeTaller.resx">
+      <DependentUpon>FormMenuJefeTaller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenuPrincipal.resx">
+      <DependentUpon>FormMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenuTecnico.resx">
+      <DependentUpon>FormMenuTecnico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTecnicosJefeTaller.resx">
+      <DependentUpon>FormTecnicosJefeTaller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTimbrarIncidencias.resx">
+      <DependentUpon>FormTimbrarIncidencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formVerElementosDepartamento.resx">
+      <DependentUpon>formVerElementosDepartamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVerElementosTI.resx">
+      <DependentUpon>FormVerElementosTI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVerIncidencias.resx">
+      <DependentUpon>FormVerIncidencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal.resx">
+      <DependentUpon>Personal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono-cliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoUI2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Membresia.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new logo3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new logo4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new logo5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\perfil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Planes.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\satellite-dish %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\satellite-dish.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shut-down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario %285%291.png" />
+    <None Include="Resources\Close1.png" />
+    <None Include="Resources\Buscar.png" />
+    <None Include="Resources\CerrarForm.png" />
+    <None Include="Resources\conexion %281%29.png" />
+    <Content Include="Resources\dispositivos.png" />
+    <None Include="Resources\dispositivos1.png" />
+    <None Include="Resources\EditarProducto.png" />
+    <None Include="Resources\EliminarProducto.png" />
+    <Content Include="Resources\en-espera %282%29.png" />
+    <None Include="Resources\en-espera %282%291.png" />
+    <None Include="Resources\icono-cliente1.png" />
+    <Content Include="Resources\informe-de-ganancias.png" />
+    <None Include="Resources\informe-de-ganancias1.png" />
+    <None Include="Resources\logoUI21.png" />
+    <None Include="Resources\Instalaciones  Gris.png" />
+    <Content Include="Resources\logout.png" />
+    <None Include="Resources\logout1.png" />
+    <None Include="Resources\maximize1.png" />
+    <None Include="Resources\maximize21.png" />
+    <None Include="Resources\maximize31.png" />
+    <Content Include="Resources\megafono.png" />
+    <None Include="Resources\megafono1.png" />
+    <None Include="Resources\Membresia1.PNG" />
+    <Content Include="Resources\menu1.png" />
+    <None Include="Resources\menu2.png" />
+    <None Include="Resources\menu11.png" />
+    <None Include="Resources\Minimize2.png" />
+    <None Include="Resources\Minimize11.png" />
+    <None Include="Resources\new logo6.png" />
+    <None Include="Resources\new logo11.png" />
+    <None Include="Resources\new logo21.png" />
+    <None Include="Resources\new logo31.png" />
+    <None Include="Resources\new logo41.png" />
+    <None Include="Resources\new logo51.png" />
+    <None Include="Resources\Normal1.png" />
+    <None Include="Resources\perfil1.png" />
+    <None Include="Resources\Planes1.PNG" />
+    <None Include="Resources\Personas Gris.png" />
+    <Content Include="Resources\salpicadero.png" />
+    <None Include="Resources\salpicadero1.png" />
+    <None Include="Resources\satellite-dish %281%291.png" />
+    <None Include="Resources\satellite-dish1.png" />
+    <None Include="Resources\shut-down1.png" />
+    <None Include="Resources\SobraCajasTotales.png" />
+    <None Include="Resources\Trabajadores Gris.png" />
+    <Content Include="Resources\usuario %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{79fa36fd-9f46-4e36-be19-3adb05115590}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{08653584-07c6-4652-b84d-5bca110c7373}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dominio\Dominio.csproj">
+      <Project>{81d08da0-3861-494a-aed3-b3b4b93fec56}</Project>
+      <Name>Dominio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

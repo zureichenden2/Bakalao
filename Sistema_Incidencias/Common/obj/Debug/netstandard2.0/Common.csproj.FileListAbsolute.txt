@@ -1,0 +1,27 @@
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\Common\obj\Debug\netstandard2.0\Common.pdb

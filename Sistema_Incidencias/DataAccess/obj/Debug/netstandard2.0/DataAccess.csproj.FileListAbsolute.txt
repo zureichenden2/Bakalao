@@ -1,0 +1,36 @@
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Oscar\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\DataAccess\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\DataAccess\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Melissa\Documents\Escuela\Gestion de operaciones de TI\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Luise\Desktop\SistemaIncidencias\Sistema_Incidencias\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
